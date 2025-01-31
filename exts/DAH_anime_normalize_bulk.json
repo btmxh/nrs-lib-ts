@@ -5,6 +5,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-1 base anime (Appalling)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Dropped",
                     "progress": "PT4H",
@@ -17,6 +19,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-2 base anime (Horrible)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Dropped",
                     "progress": "PT4H",
@@ -29,6 +33,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-3 base anime (Very Bad)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Dropped",
                     "progress": "PT4H",
@@ -41,6 +47,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-4 base anime (Bad)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Temporarily On-Hold",
                     "progress": "PT4H",
@@ -53,6 +61,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-5 base anime (Average)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Completed",
                     "progress": "PT4H",
@@ -65,6 +75,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-6 base anime (Fine)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Completed",
                     "progress": "PT4H",
@@ -77,6 +89,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-7 base anime (Good)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Completed",
                     "progress": "PT4H",
@@ -89,6 +103,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-8 base anime (Very Good)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Completed",
                     "progress": "PT4H",
@@ -101,6 +117,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-9 base anime (Great)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Completed",
                     "progress": "PT4H",
@@ -113,6 +131,8 @@
             "children": {},
             "DAH_meta": {
                 "DAH_entry_title": "MAL-10 base anime (Masterpiece)",
+                "DAH_entry_type": "Anime",
+                "DAH_obj_location": {},
                 "DAH_entry_progress": {
                     "status": "Completed",
                     "progress": "PT4H",
@@ -124,28 +144,36 @@
             "id": "M-VGMDB-1",
             "children": {},
             "DAH_meta": {
-                "DAH_entry_title": "MAL-10 base anime sample music"
+                "DAH_entry_title": "MAL-10 base anime sample music",
+                "DAH_entry_type": "MusicAlbumTrack",
+                "DAH_obj_location": {}
             }
         },
         "M-VGMDB-2": {
             "id": "M-VGMDB-2",
             "children": {},
             "DAH_meta": {
-                "DAH_entry_title": "MAL-10 base anime sample music"
+                "DAH_entry_title": "MAL-10 base anime sample music",
+                "DAH_entry_type": "MusicAlbumTrack",
+                "DAH_obj_location": {}
             }
         },
         "M-VGMDB-3": {
             "id": "M-VGMDB-3",
             "children": {},
             "DAH_meta": {
-                "DAH_entry_title": "MAL-10 base anime sample music"
+                "DAH_entry_title": "MAL-10 base anime sample music",
+                "DAH_entry_type": "MusicAlbumTrack",
+                "DAH_obj_location": {}
             }
         },
         "M-VGMDB-4": {
             "id": "M-VGMDB-4",
             "children": {},
             "DAH_meta": {
-                "DAH_entry_title": "MAL-10 base anime sample music"
+                "DAH_entry_title": "MAL-10 base anime sample music",
+                "DAH_entry_type": "MusicAlbumTrack",
+                "DAH_obj_location": {}
             }
         }
     },
@@ -155,17 +183,7 @@
                 "A-MAL-1": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0.2,
-                "A": 0
+                "B": 0.2
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -184,7 +202,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -192,16 +211,6 @@
                 "A-MAL-1": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
                 "A": -2
             },
             "DAH_meta": {
@@ -212,7 +221,8 @@
                     "additionalArgs": {
                         "description": "this shit sucks"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -220,17 +230,7 @@
                 "A-MAL-1": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0.1466666666666667,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 0.1466666666666667
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -242,7 +242,30 @@
                         "base": 0.1,
                         "unique": 0.2
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-1": 1
+            },
+            "score": {
+                "AL": 0.14300000000000002
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.1,
+                        "storyQuality": 0.1,
+                        "pacing": 0.3,
+                        "originality": 0.1
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -250,17 +273,7 @@
                 "A-MAL-2": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0.4,
-                "A": 0
+                "B": 0.4
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -279,7 +292,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -287,16 +301,6 @@
                 "A-MAL-2": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
                 "A": -1
             },
             "DAH_meta": {
@@ -307,7 +311,8 @@
                     "additionalArgs": {
                         "description": "this shit sucks"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -315,17 +320,7 @@
                 "A-MAL-2": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0.2933333333333334,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 0.2933333333333334
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -337,7 +332,30 @@
                         "base": 0.2,
                         "unique": 0.2
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-2": 1
+            },
+            "score": {
+                "AL": 0.36000000000000004
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.2,
+                        "storyQuality": 0.2,
+                        "pacing": 0.5,
+                        "originality": 0.2
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -345,17 +363,7 @@
                 "A-MAL-3": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0.5,
-                "A": 0
+                "B": 0.5
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -374,7 +382,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -382,17 +391,7 @@
                 "A-MAL-3": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0.44,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 0.44
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -404,7 +403,30 @@
                         "base": 0.3,
                         "unique": 0.2
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-3": 1
+            },
+            "score": {
+                "AL": 0.36000000000000004
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.2,
+                        "storyQuality": 0.2,
+                        "pacing": 0.5,
+                        "originality": 0.2
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -412,17 +434,7 @@
                 "A-MAL-4": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0.6,
-                "A": 0
+                "B": 0.6
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -441,7 +453,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -449,17 +462,7 @@
                 "A-MAL-4": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0.45999999999999996,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 0.45999999999999996
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -471,7 +474,30 @@
                         "base": 0.3,
                         "unique": 0.3
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-4": 1
+            },
+            "score": {
+                "AL": 0.36000000000000004
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.2,
+                        "storyQuality": 0.2,
+                        "pacing": 0.5,
+                        "originality": 0.2
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -479,17 +505,7 @@
                 "A-MAL-5": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0.8,
-                "A": 0
+                "B": 0.8
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -508,7 +524,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -516,17 +533,7 @@
                 "A-MAL-5": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0.6133333333333333,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 0.6133333333333333
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -538,7 +545,30 @@
                         "base": 0.4,
                         "unique": 0.3
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-5": 1
+            },
+            "score": {
+                "AL": 0.8400000000000001
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.4,
+                        "storyQuality": 0.4,
+                        "pacing": 0.5,
+                        "originality": 0.4
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -546,17 +576,7 @@
                 "A-MAL-6": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0.9,
-                "A": 0
+                "B": 0.9
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -575,7 +595,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -583,17 +604,7 @@
                 "A-MAL-6": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 2.1,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AP": 2.1
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -610,7 +621,8 @@
                         "factor": 0.1,
                         "sign": "positive"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -618,17 +630,7 @@
                 "A-MAL-6": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0.8333333333333334,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 0.8333333333333334
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -640,7 +642,30 @@
                         "base": 0.5,
                         "unique": 0.5
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-6": 1
+            },
+            "score": {
+                "AL": 1.0499999999999998
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.5,
+                        "storyQuality": 0.5,
+                        "pacing": 0.5,
+                        "originality": 0.4
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -648,17 +673,7 @@
                 "A-MAL-7": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -677,7 +692,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -685,17 +701,7 @@
                 "A-MAL-7": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 3.5,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AP": 3.5
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -708,7 +714,8 @@
                             "ActivatedPleasant": 1
                         }
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -716,17 +723,7 @@
                 "A-MAL-7": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0.8333333333333334,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 0.8333333333333334
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -738,7 +735,30 @@
                         "base": 0.5,
                         "unique": 0.5
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-7": 1
+            },
+            "score": {
+                "AL": 1.7280000000000002
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.6,
+                        "storyQuality": 0.6,
+                        "pacing": 0.8,
+                        "originality": 0.6
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -746,17 +766,7 @@
                 "A-MAL-8": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -775,7 +785,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -783,17 +794,7 @@
                 "A-MAL-8": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 4,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "CU": 4
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -806,26 +807,15 @@
                             "CalmingUnpleasant": 1
                         }
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
             "contributors": {
                 "A-MAL-8": 1
             },
-            "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "score": {},
             "DAH_meta": {
                 "DAH_ir_source": {
                     "extension": "DAH_standards",
@@ -842,7 +832,8 @@
                         "days": 0,
                         "periods": []
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -850,17 +841,7 @@
                 "A-MAL-8": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 4,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AP": 4
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -876,7 +857,8 @@
                     "epiArgs": {
                         "factor": 0.5
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -884,17 +866,7 @@
                 "A-MAL-8": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 1,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 1
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -906,7 +878,30 @@
                         "base": 0.6,
                         "unique": 0.5
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-8": 1
+            },
+            "score": {
+                "AL": 2.295
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.75,
+                        "storyQuality": 0.75,
+                        "pacing": 0.8,
+                        "originality": 0.7
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -914,17 +909,7 @@
                 "A-MAL-9": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -943,7 +928,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -951,17 +937,7 @@
                 "A-MAL-9": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 4,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "CU": 4
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -974,7 +950,8 @@
                             "CalmingUnpleasant": 1
                         }
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -982,17 +959,7 @@
                 "A-MAL-9": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 3.764858921294094,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "CU": 3.764858921294094
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1015,7 +982,8 @@
                             }
                         ]
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1023,17 +991,7 @@
                 "A-MAL-9": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 3.5,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AP": 3.5
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1046,7 +1004,8 @@
                             "ActivatedPleasant": 1
                         }
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1054,17 +1013,7 @@
                 "A-MAL-9": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 4.5,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AP": 4.5
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1080,7 +1029,8 @@
                     "epiArgs": {
                         "factor": 1
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1088,17 +1038,7 @@
                 "A-MAL-9": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 1.1666666666666667,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 1.1666666666666667
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1110,7 +1050,30 @@
                         "base": 0.7,
                         "unique": 0.5
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-9": 1
+            },
+            "score": {
+                "AL": 2.736
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 0.8,
+                        "storyQuality": 0.8,
+                        "pacing": 0.9,
+                        "originality": 0.8
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1118,17 +1081,7 @@
                 "A-MAL-10": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1147,7 +1100,8 @@
                         "episodes": 12,
                         "episodeDuration": "PT20M"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1155,17 +1109,7 @@
                 "A-MAL-10": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 4,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "CU": 4
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1178,7 +1122,8 @@
                             "CalmingUnpleasant": 1
                         }
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1186,17 +1131,7 @@
                 "A-MAL-10": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 5.985786944906639,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "CU": 5.985786944906639
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1219,26 +1154,15 @@
                             }
                         ]
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
             "contributors": {
                 "A-MAL-10": 1
             },
-            "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "score": {},
             "DAH_meta": {
                 "DAH_ir_source": {
                     "extension": "DAH_standards",
@@ -1255,7 +1179,8 @@
                         "days": 0,
                         "periods": []
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1263,17 +1188,7 @@
                 "A-MAL-10": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 2.75,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "MP": 2.75
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1290,7 +1205,8 @@
                         "factor": 0.75,
                         "sign": "positive"
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1298,17 +1214,7 @@
                 "A-MAL-10": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 3.5,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AP": 3.5
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1321,7 +1227,8 @@
                             "ActivatedPleasant": 1
                         }
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1329,17 +1236,7 @@
                 "A-MAL-10": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 4.5,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AP": 4.5
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1355,7 +1252,8 @@
                     "epiArgs": {
                         "factor": 1
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1363,17 +1261,7 @@
                 "A-MAL-10": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 1.3333333333333333,
-                "AM": 0,
-                "B": 0,
-                "A": 0
+                "AV": 1.3333333333333333
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1385,7 +1273,30 @@
                         "base": 0.8,
                         "unique": 0.5
                     }
-                }
+                },
+                "DAH_obj_location": {}
+            }
+        },
+        {
+            "contributors": {
+                "A-MAL-10": 1
+            },
+            "score": {
+                "AL": 4
+            },
+            "DAH_meta": {
+                "DAH_ir_source": {
+                    "extension": "DAH_standards",
+                    "version": "1.1.1",
+                    "name": "writing",
+                    "writingArgs": {
+                        "characterComplexity": 1,
+                        "storyQuality": 1,
+                        "pacing": 1,
+                        "originality": 1
+                    }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1393,17 +1304,7 @@
                 "M-VGMDB-1": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 1.5,
-                "B": 0,
-                "A": 0
+                "AM": 1.5
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1413,7 +1314,8 @@
                     "musicArgs": {
                         "musicBase": 0.5
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1421,17 +1323,7 @@
                 "M-VGMDB-2": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 1.7999999999999998,
-                "B": 0,
-                "A": 0
+                "AM": 1.7999999999999998
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1441,7 +1333,8 @@
                     "musicArgs": {
                         "musicBase": 0.6
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1449,17 +1342,7 @@
                 "M-VGMDB-3": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 2.0999999999999996,
-                "B": 0,
-                "A": 0
+                "AM": 2.0999999999999996
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1469,7 +1352,8 @@
                     "musicArgs": {
                         "musicBase": 0.7
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1477,17 +1361,7 @@
                 "M-VGMDB-4": 1
             },
             "score": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 2.4000000000000004,
-                "B": 0,
-                "A": 0
+                "AM": 2.4000000000000004
             },
             "DAH_meta": {
                 "DAH_ir_source": {
@@ -1497,7 +1371,8 @@
                     "musicArgs": {
                         "musicBase": 0.8
                     }
-                }
+                },
+                "DAH_obj_location": {}
             }
         }
     ],
@@ -1508,17 +1383,7 @@
             },
             "references": {
                 "M-VGMDB-1": {
-                    "AU": 0,
-                    "AP": 0,
-                    "MU": 0,
-                    "MP": 0,
-                    "CU": 0,
-                    "CP": 0,
-                    "AL": 0,
-                    "AV": 0,
-                    "AM": 0.2,
-                    "B": 0,
-                    "A": 0
+                    "AM": 0.2
                 }
             },
             "DAH_meta": {
@@ -1526,7 +1391,8 @@
                     "extension": "DAH_standards",
                     "version": "1.1.1",
                     "name": "featureMusic"
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1535,17 +1401,7 @@
             },
             "references": {
                 "M-VGMDB-2": {
-                    "AU": 0,
-                    "AP": 0,
-                    "MU": 0,
-                    "MP": 0,
-                    "CU": 0,
-                    "CP": 0,
-                    "AL": 0,
-                    "AV": 0,
-                    "AM": 0.2,
-                    "B": 0,
-                    "A": 0
+                    "AM": 0.2
                 }
             },
             "DAH_meta": {
@@ -1553,7 +1409,8 @@
                     "extension": "DAH_standards",
                     "version": "1.1.1",
                     "name": "featureMusic"
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1562,17 +1419,7 @@
             },
             "references": {
                 "M-VGMDB-3": {
-                    "AU": 0,
-                    "AP": 0,
-                    "MU": 0,
-                    "MP": 0,
-                    "CU": 0,
-                    "CP": 0,
-                    "AL": 0,
-                    "AV": 0,
-                    "AM": 0.2,
-                    "B": 0,
-                    "A": 0
+                    "AM": 0.2
                 }
             },
             "DAH_meta": {
@@ -1580,7 +1427,8 @@
                     "extension": "DAH_standards",
                     "version": "1.1.1",
                     "name": "featureMusic"
-                }
+                },
+                "DAH_obj_location": {}
             }
         },
         {
@@ -1589,17 +1437,7 @@
             },
             "references": {
                 "M-VGMDB-4": {
-                    "AU": 0,
-                    "AP": 0,
-                    "MU": 0,
-                    "MP": 0,
-                    "CU": 0,
-                    "CP": 0,
-                    "AL": 0,
-                    "AV": 0,
-                    "AM": 0.2,
-                    "B": 0,
-                    "A": 0
+                    "AM": 0.2
                 }
             },
             "DAH_meta": {
@@ -1607,490 +1445,204 @@
                     "extension": "DAH_standards",
                     "version": "1.1.1",
                     "name": "featureMusic"
-                }
+                },
+                "DAH_obj_location": {}
             }
         }
     ],
     "scores": {
         "A-MAL-1": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.14300000000000002,
                 "AV": 0.1466666666666667,
-                "AM": 0,
                 "B": 0.2,
                 "A": -2
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.14300000000000002,
                 "AV": 0.1466666666666667,
-                "AM": 0,
                 "B": 0.2,
                 "A": -2
             },
             "DAH_meta": {
-                "DAH_overall_score": -1.6533333333333333
+                "DAH_overall_score": -1.5543333333333333
             }
         },
         "A-MAL-2": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.36000000000000004,
                 "AV": 0.2933333333333334,
-                "AM": 0,
                 "B": 0.4,
                 "A": -1
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.36000000000000004,
                 "AV": 0.2933333333333334,
-                "AM": 0,
                 "B": 0.4,
                 "A": -1
             },
             "DAH_meta": {
-                "DAH_overall_score": -0.30666666666666664
+                "DAH_overall_score": -0.03466666666666651
             }
         },
         "A-MAL-3": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.36000000000000004,
                 "AV": 0.44,
-                "AM": 0,
-                "B": 0.5,
-                "A": 0
+                "B": 0.5
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.36000000000000004,
                 "AV": 0.44,
-                "AM": 0,
-                "B": 0.5,
-                "A": 0
+                "B": 0.5
             },
             "DAH_meta": {
-                "DAH_overall_score": 0.94
+                "DAH_overall_score": 1.1680000000000001
             }
         },
         "A-MAL-4": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.36000000000000004,
                 "AV": 0.45999999999999996,
-                "AM": 0,
-                "B": 0.6,
-                "A": 0
+                "B": 0.6
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.36000000000000004,
                 "AV": 0.45999999999999996,
-                "AM": 0,
-                "B": 0.6,
-                "A": 0
+                "B": 0.6
             },
             "DAH_meta": {
-                "DAH_overall_score": 1.06
+                "DAH_overall_score": 1.282
             }
         },
         "A-MAL-5": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.8400000000000001,
                 "AV": 0.6133333333333333,
-                "AM": 0,
-                "B": 0.8,
-                "A": 0
+                "B": 0.8
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 0.8400000000000001,
                 "AV": 0.6133333333333333,
-                "AM": 0,
-                "B": 0.8,
-                "A": 0
+                "B": 0.8
             },
             "DAH_meta": {
-                "DAH_overall_score": 1.4133333333333333
+                "DAH_overall_score": 2.0693333333333337
             }
         },
         "A-MAL-6": {
             "totalImpact": {
-                "AU": 0,
                 "AP": 2.1,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 1.0499999999999998,
                 "AV": 0.8333333333333334,
-                "AM": 0,
-                "B": 0.9,
-                "A": 0
+                "B": 0.9
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
                 "AP": 2.1,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 1.0499999999999998,
                 "AV": 0.8333333333333334,
-                "AM": 0,
-                "B": 0.9,
-                "A": 0
+                "B": 0.9
             },
             "DAH_meta": {
-                "DAH_overall_score": 3.8333333333333335
+                "DAH_overall_score": 4.633333333333334
             }
         },
         "A-MAL-7": {
             "totalImpact": {
-                "AU": 0,
                 "AP": 3.5,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 1.7280000000000002,
                 "AV": 0.8333333333333334,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
                 "AP": 3.5,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
+                "AL": 1.7280000000000002,
                 "AV": 0.8333333333333334,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "DAH_meta": {
-                "DAH_overall_score": 5.333333333333333
+                "DAH_overall_score": 6.811333333333334
             }
         },
         "A-MAL-8": {
             "totalImpact": {
-                "AU": 0,
                 "AP": 4,
-                "MU": 0,
-                "MP": 0,
                 "CU": 4,
-                "CP": 0,
-                "AL": 0,
+                "AL": 2.295,
                 "AV": 1,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
                 "AP": 4,
-                "MU": 0,
-                "MP": 0,
                 "CU": 4,
-                "CP": 0,
-                "AL": 0,
+                "AL": 2.295,
                 "AV": 1,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "DAH_meta": {
-                "DAH_overall_score": 8.4
+                "DAH_overall_score": 10.395
             }
         },
         "A-MAL-9": {
             "totalImpact": {
-                "AU": 0,
                 "AP": 5.3,
-                "MU": 0,
-                "MP": 0,
                 "CU": 5.505943568517638,
-                "CP": 0,
-                "AL": 0,
+                "AL": 2.736,
                 "AV": 1.1666666666666667,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
                 "AP": 5.3,
-                "MU": 0,
-                "MP": 0,
                 "CU": 5.505943568517638,
-                "CP": 0,
-                "AL": 0,
+                "AL": 2.736,
                 "AV": 1.1666666666666667,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "DAH_meta": {
-                "DAH_overall_score": 10.770232807777248
+                "DAH_overall_score": 13.156232807777249
             }
         },
         "A-MAL-10": {
             "totalImpact": {
-                "AU": 0,
                 "AP": 5.3,
-                "MU": 0,
                 "MP": 2.75,
                 "CU": 6.394314777962656,
-                "CP": 0,
-                "AL": 0,
+                "AL": 4,
                 "AV": 1.3333333333333333,
-                "AM": 0,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0.45876000000000006,
-                "B": 0,
-                "A": 0
+                "AM": 0.45876000000000006
             },
             "overallVector": {
-                "AU": 0,
                 "AP": 5.3,
-                "MU": 0,
                 "MP": 2.75,
                 "CU": 6.394314777962656,
-                "CP": 0,
-                "AL": 0,
+                "AL": 4,
                 "AV": 1.3333333333333333,
                 "AM": 0.45876000000000006,
-                "B": 1,
-                "A": 0
+                "B": 1
             },
             "DAH_meta": {
-                "DAH_overall_score": 11.906418653399887
+                "DAH_overall_score": 15.410079053399889
             }
         },
         "M-VGMDB-1": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 1.5,
-                "B": 0,
-                "A": 0
+                "AM": 1.5
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 1.5,
-                "B": 0,
-                "A": 0
+                "AM": 1.5
             },
             "DAH_meta": {
                 "DAH_overall_score": 1.5
@@ -2098,43 +1650,11 @@
         },
         "M-VGMDB-2": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 1.7999999999999998,
-                "B": 0,
-                "A": 0
+                "AM": 1.7999999999999998
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 1.7999999999999998,
-                "B": 0,
-                "A": 0
+                "AM": 1.7999999999999998
             },
             "DAH_meta": {
                 "DAH_overall_score": 1.7999999999999998
@@ -2142,43 +1662,11 @@
         },
         "M-VGMDB-3": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 2.0999999999999996,
-                "B": 0,
-                "A": 0
+                "AM": 2.0999999999999996
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 2.0999999999999996,
-                "B": 0,
-                "A": 0
+                "AM": 2.0999999999999996
             },
             "DAH_meta": {
                 "DAH_overall_score": 2.0999999999999996
@@ -2186,43 +1674,11 @@
         },
         "M-VGMDB-4": {
             "totalImpact": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 2.4000000000000004,
-                "B": 0,
-                "A": 0
+                "AM": 2.4000000000000004
             },
-            "totalRelation": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 0,
-                "B": 0,
-                "A": 0
-            },
+            "totalRelation": {},
             "overallVector": {
-                "AU": 0,
-                "AP": 0,
-                "MU": 0,
-                "MP": 0,
-                "CU": 0,
-                "CP": 0,
-                "AL": 0,
-                "AV": 0,
-                "AM": 2.4000000000000004,
-                "B": 0,
-                "A": 0
+                "AM": 2.4000000000000004
             },
             "DAH_meta": {
                 "DAH_overall_score": 2.4000000000000004
